@@ -1,5 +1,5 @@
 # Projects
-This project directory consists exploratory data analysis (EDA) in python, Data visualization techniques and implementation of Machine Learning (ML) alogorithms on the datasets which are picked from Kaggle
+This project directory consists exploratory data analysis (EDA) in python, Data visualization techniques and implementation of Machine Learning (ML) alogorithms on the datasets which are picked from Kaggle "\n"
 Imdb top 250 Movies project - Jupyter notebook file with implementation of EDA in python using pandas,Matplotlib and seabourne packages
 House Price Prediction - Jupyter notebook file with implementation of EDA in python using pandas,Matplotlib and seabourne and SciKit learn packages
 
